@@ -3,6 +3,7 @@
 		"module": "ESNext",
 		"esModuleInterop": true,
 		"allowSyntheticDefaultImports": true,
+		"allowJs": true,
 		"target": "ES2021",
 		"lib": ["ESNext", "DOM"],
 		"skipLibCheck": true,

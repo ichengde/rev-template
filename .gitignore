@@ -12,3 +12,5 @@
 
 #!.yarn/cache
 .pnp.*
+
+*.log
