@@ -496,13 +496,13 @@ __metadata:
   linkType: hard
 
 "cross-spawn@npm:^7.0.0":
-  version: 7.0.3
-  resolution: "cross-spawn@npm:7.0.3"
+  version: 7.0.5
+  resolution: "cross-spawn@npm:7.0.5"
   dependencies:
     path-key: "npm:^3.1.0"
     shebang-command: "npm:^2.0.0"
     which: "npm:^2.0.1"
-  checksum: 10c0/5738c312387081c98d69c98e105b6327b069197f864a60593245d64c8089c8a0a744e16349281210d56835bb9274130d825a78b2ad6853ca13cfbeffc0c31750
+  checksum: 10c0/aa82ce7ac0814a27e6f2b738c5a7cf1fa21a3558a1e42df449fc96541ba3ba731e4d3ecffa4435348808a86212f287c6f20a1ee551ef1ff95d01cfec5f434944
   languageName: node
   linkType: hard
 
@@ -981,10 +981,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"koffi@npm:^2.9.1":
-  version: 2.9.1
-  resolution: "koffi@npm:2.9.1"
-  checksum: 10c0/063d699f81e4ac765855ad24e75792e223e767c7f8482f604f0622423e0d6ad00084c0cbab087603dc9f54d1e386dc14c3fc07788b2dd067a23ecb0aeeed118f
+"koffi@npm:^2.9.2":
+  version: 2.9.2
+  resolution: "koffi@npm:2.9.2"
+  checksum: 10c0/8d8d038b12041195e3cab2ab0a06e4f9cc92e919c157d50dfad840ad5494f4a9c53fb9c1de67fc71fdd8c3fef38c7f46d4db76583d9a400ac6b124be93d8904a
   languageName: node
   linkType: hard
 
@@ -1395,10 +1395,10 @@ __metadata:
     "@types/frida-gum": "npm:^18.7.1"
     "@types/node": "npm:^22.7.9"
     frida: "npm:^16.5.6"
-    koffi: "npm:^2.9.1"
+    koffi: "npm:^2.9.2"
     tsx: "npm:^4.19.2"
     typescript: "npm:^5.6.3"
-    winston: "npm:^3.16.0"
+    winston: "npm:^3.15.0"
   languageName: unknown
   linkType: soft
 
@@ -1752,7 +1752,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"winston@npm:^3.16.0":
+"winston@npm:^3.15.0":
   version: 3.16.0
   resolution: "winston@npm:3.16.0"
   dependencies:
