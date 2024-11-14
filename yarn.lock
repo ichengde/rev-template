@@ -710,15 +710,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"frida@npm:^16.5.6":
-  version: 16.5.6
-  resolution: "frida@npm:16.5.6"
+"frida@npm:^16.5.7":
+  version: 16.5.7
+  resolution: "frida@npm:16.5.7"
   dependencies:
     bindings: "npm:^1.5.0"
     minimatch: "npm:^9.0.3"
     nan: "npm:^2.18.0"
     prebuild-install: "npm:^7.1.1"
-  checksum: 10c0/5ddc14579efe61a500ded86efd71a60972260dab8ef034b265aebf42c2a694996407fa7517415b9caa1de51c1dd88856648c31a5dcce02a7f2a593f9cf4858f4
+  checksum: 10c0/0f3110c23d6243894b18e557abfeac54c6f1423df6cac82ef2e4465786fd4543613bf986c5b5afe5fa9b0a06a7124dc1de5795e5755f6813862e9af5ac95c038
   languageName: node
   linkType: hard
 
@@ -1341,11 +1341,11 @@ __metadata:
   dependencies:
     "@types/frida-gum": "npm:^18.7.1"
     "@types/node": "npm:^22.7.9"
-    frida: "npm:^16.5.6"
+    frida: "npm:^16.5.7"
     koffi: "npm:^2.9.1"
     tsx: "npm:^4.19.2"
     typescript: "npm:^5.6.3"
-    winston: "npm:^3.17.0"
+    winston: "npm:^3.15.0"
   languageName: unknown
   linkType: soft
 
@@ -1699,7 +1699,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"winston@npm:^3.17.0":
+"winston@npm:^3.15.0":
   version: 3.17.0
   resolution: "winston@npm:3.17.0"
   dependencies:
