@@ -10,13 +10,17 @@
   },
   "dependencies": {
     "@types/frida-gum": "^18.7.1",
-    "frida": "^16.5.6",
-    "koffi": "^2.9.1",
+    "frida": "16.5.6",
+    "koffi": "^2.9.2",
+    "playwright": "^1.49.0",
+    "punycode": "^2.3.1",
     "tsx": "^4.19.2",
     "typescript": "^5.6.3",
-    "winston": "^3.15.0"
+    "winston": "^3.17.0"
   },
   "devDependencies": {
-    "@types/node": "^22.7.9"
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.1",
+    "@types/punycode": "^2.1.4"
   }
 }
